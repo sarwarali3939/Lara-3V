@@ -1,5 +1,5 @@
 {
-  "name": "LARA-MD",
+  "name": "SARWAR-ALI",
   "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
   "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
@@ -14,7 +14,7 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "923188211549",
       "required": true,
       "value": "923188211549"
     },
