@@ -14,7 +14,7 @@ LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_'hi'`_* 😭💔😔😓",
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_'Abu ki muskurahat mera hosla hua karti thi ab wo na hosla raha na hi koi jazba baqi raha'`_* 😭💔😔😓",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
