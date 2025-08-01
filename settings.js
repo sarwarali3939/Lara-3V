@@ -14,8 +14,9 @@ LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
-STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`Ab har dua mein aik hi fiqra hota hai: 'Ya Allah mere Abu ko jannat dey'`_* 😭💔😔😓",
-AUTO_BIO: process.env.AUTO_BIO || "true",
+STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`ابو کی مسکراہٹ میرا حوصلہ ہوا کرتی تھی،
+اب وہ نہ حوصلہ رہا، نہ ہی کوئی جذبہ باقی رہا۔'`_* 😭💔😔😓",
+AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",    
