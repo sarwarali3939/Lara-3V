@@ -1,7 +1,7 @@
 `Update On : 2025.07.12`
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
-	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
+	<h3>😘SARWAR-MD WHATSAPP BOT😘</h3>
 <img src="https://i.ibb.co/ZRnmZw6f/20250709-134308.jpg" width="300" height="150">
 </div>
 <div align="center">
@@ -10,7 +10,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+sarwar...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+sarwar-MD..."
             alt="Typing">
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <hr>
 
-			Lara-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			sarwar-MD බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
        
 <h3>🌸 How To Deploy </h3>
 
@@ -148,7 +148,7 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>🌸 LARA-MD DEVELOPER TEAM 👤</h3>
+<h3>🌸 SARWAR-MD DEVELOPER TEAM 👤</h3>
 
 | SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
@@ -171,7 +171,7 @@ jobs:
 
 </div>
 
-<h5>Thank You For Using Lara-MD 💗</h5>
+<h5>Thank You For Using Sarwar-MD 💗</h5>
 
 <hr>
 
