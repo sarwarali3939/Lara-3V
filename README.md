@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://files.catbox.moe/irnyx8.jpg" width="300" height="150">
+<img src="https://i.postimg.cc/HLp77SG7/IMG-20250802-WA0003.jpg" width="300" height="150">
 </div>
 <div align="center">
 </p>
